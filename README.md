@@ -33,11 +33,12 @@ Irá conter exercícios e exemplos da aula
 11. FUP que solicite a operação (+,-,/,*) e dois numeros, calcule a operação solicitada e informe o resultado;
 12. FUP que peça um número e imprima uma mensagem se esse número é positivo ou negativo;
 13. FUP que solicite um numero e veja se ele é par ou impar;
-    Dica: Pares ou Ímpares? Utilize:
+    Dica: Pares ou Ímpares? Utilize o resto da divisão:
+    ` if(num % 2 == 0) `
 
-14. FUP que solicite dois numero e verifique qual é o maior;
-15. FUP que leia 3 valores a,b,c e verifique se eles formam ou não um triângulo. Caso os valores formem um triângulo, solicite a base e a altura, calcule (base * altura / 2) e escreva a área deste triângulo. Se não formam triângulo escreva os valores lidos. 
-16. FUP que calcule o imposto de renda de um contribuinte. Os dados de entrada são: o CPF(int), o número de dependentes e a renda mensal. Para cada dependente será feito um desconto de 5% do salário mínimo por dependente. Os valores da alíquota para cálculo do imposto são:
+15. FUP que solicite dois numero e verifique qual é o maior;
+16. FUP que leia 3 valores a,b,c e verifique se eles formam ou não um triângulo. Caso os valores formem um triângulo, solicite a base e a altura, calcule (base * altura / 2) e escreva a área deste triângulo. Se não formam triângulo escreva os valores lidos. 
+17. FUP que calcule o imposto de renda de um contribuinte. Os dados de entrada são: o CPF(int), o número de dependentes e a renda mensal. Para cada dependente será feito um desconto de 5% do salário mínimo por dependente. Os valores da alíquota para cálculo do imposto são:
 
 | Renda Mensal              | Alíquota |
 | ------------------------- | -------- |
