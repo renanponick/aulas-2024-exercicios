@@ -13,7 +13,7 @@
    - Crie um banco de dados chamado `Locadora`.
    - No banco, crie as seguintes tabelas com suas respectivas colunas:
      - **Clientes**: `id`, `nome`, `email`, `senha`.
-     - **Filmes**: `id`, `titulo`, `faixaEtaria`, `diretor`.
+     - **Filmes**: `id`, `titulo`, `classificacaoIndicativa`, `diretor`.
      - **Filmes_Locados**: `id`, `idFilme`, `idCliente`, `dataLocacao`, `dataDevolucao`.
 
 4. **Funcionalidades do Sistema:**
